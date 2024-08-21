@@ -5,5 +5,6 @@
 <h6>In this app we are going to deploy things manually</h6>
 <a href="about.jsp">About Page</a>
 <p>This changes in jenkins</p>
+<a href="service.jsp">Service Page</a>
 </body>
 </html>
